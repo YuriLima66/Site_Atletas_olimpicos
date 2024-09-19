@@ -115,6 +115,7 @@ footer {
   text-align: left; /* Define o alinhamento do texto do rodapé como à esquerda */
   border-top: 0.3rem solid white; /* Adiciona uma borda superior branca ao rodapé */
   padding: 1%; /* Adiciona um espaçamento interno ao rodapé */
+  overflow-y: hidden;
 }
 
 /* Estilos para os links dentro do rodapé */
